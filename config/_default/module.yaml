@@ -5,9 +5,7 @@ imports:
 
 # Core theme
 - path: github.com/hugolify/hugolify-theme
+- path: github.com/hugolify/hugolify-theme-1
 
 # CMS
 - path: github.com/hugolify/hugolify-decap-cms
-
-# Example site
-  - path: github.com/hugolify/hugolify-example-site
